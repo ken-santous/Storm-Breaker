@@ -1,25 +1,16 @@
-[Sat Dec 18 19:07:16 2021] PHP 7.4.21 Development Server (http://localhost:8767) started
-[Sat Dec 18 19:08:45 2021] [::1]:51072 Accepted
-[Sat Dec 18 19:08:45 2021] [::1]:51072 [200]: (null) /
-[Sat Dec 18 19:08:45 2021] [::1]:51072 Closing
-[Sat Dec 18 19:08:47 2021] [::1]:51074 Accepted
-[Sat Dec 18 19:08:47 2021] [::1]:51074 [404]: (null) /favicon.ico - No such file or directory
-[Sat Dec 18 19:08:47 2021] [::1]:51074 Closing
-[Sat Dec 18 19:09:27 2021] [::1]:51076 Accepted
-[Sat Dec 18 19:09:27 2021] [::1]:51076 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:27 2021] [::1]:51076 Closing
-[Sat Dec 18 19:09:27 2021] [::1]:51078 Accepted
-[Sat Dec 18 19:09:27 2021] [::1]:51078 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:27 2021] [::1]:51078 Closing
-[Sat Dec 18 19:09:28 2021] [::1]:51080 Accepted
-[Sat Dec 18 19:09:28 2021] [::1]:51080 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:28 2021] [::1]:51080 Closing
-[Sat Dec 18 19:09:28 2021] [::1]:51082 Accepted
-[Sat Dec 18 19:09:28 2021] [::1]:51082 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:28 2021] [::1]:51082 Closing
-[Sat Dec 18 19:09:33 2021] [::1]:51084 Accepted
-[Sat Dec 18 19:09:33 2021] [::1]:51084 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:33 2021] [::1]:51084 Closing
-[Sat Dec 18 19:09:33 2021] [::1]:51086 Accepted
-[Sat Dec 18 19:09:33 2021] [::1]:51086 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:09:33 2021] [::1]:51086 Closing
+[Sat Dec 18 19:40:43 2021] PHP 7.4.21 Development Server (http://localhost:8767) started
+[Sat Dec 18 19:41:06 2021] [::1]:51092 Accepted
+[Sat Dec 18 19:41:06 2021] [::1]:51092 [200]: (null) /
+[Sat Dec 18 19:41:06 2021] [::1]:51092 Closing
+[Sat Dec 18 19:41:07 2021] [::1]:51094 Accepted
+[Sat Dec 18 19:41:07 2021] [::1]:51094 [404]: (null) /favicon.ico - No such file or directory
+[Sat Dec 18 19:41:07 2021] [::1]:51094 Closing
+[Sat Dec 18 19:41:29 2021] [::1]:51096 Accepted
+[Sat Dec 18 19:41:29 2021] [::1]:51096 [200]: (null) /
+[Sat Dec 18 19:41:29 2021] [::1]:51096 Closing
+[Sat Dec 18 19:41:58 2021] [::1]:51098 Accepted
+[Sat Dec 18 19:41:58 2021] [::1]:51098 Invalid request (Unsupported SSL request)
+[Sat Dec 18 19:41:58 2021] [::1]:51098 Closing
+[Sat Dec 18 19:41:58 2021] [::1]:51100 Accepted
+[Sat Dec 18 19:41:58 2021] [::1]:51100 Invalid request (Unsupported SSL request)
+[Sat Dec 18 19:41:58 2021] [::1]:51100 Closing
