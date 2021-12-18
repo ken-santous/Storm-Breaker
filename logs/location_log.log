@@ -1,16 +1,13 @@
-[Sat Dec 18 19:40:43 2021] PHP 7.4.21 Development Server (http://localhost:8767) started
-[Sat Dec 18 19:41:06 2021] [::1]:51092 Accepted
-[Sat Dec 18 19:41:06 2021] [::1]:51092 [200]: (null) /
-[Sat Dec 18 19:41:06 2021] [::1]:51092 Closing
-[Sat Dec 18 19:41:07 2021] [::1]:51094 Accepted
-[Sat Dec 18 19:41:07 2021] [::1]:51094 [404]: (null) /favicon.ico - No such file or directory
-[Sat Dec 18 19:41:07 2021] [::1]:51094 Closing
-[Sat Dec 18 19:41:29 2021] [::1]:51096 Accepted
-[Sat Dec 18 19:41:29 2021] [::1]:51096 [200]: (null) /
-[Sat Dec 18 19:41:29 2021] [::1]:51096 Closing
-[Sat Dec 18 19:41:58 2021] [::1]:51098 Accepted
-[Sat Dec 18 19:41:58 2021] [::1]:51098 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:41:58 2021] [::1]:51098 Closing
-[Sat Dec 18 19:41:58 2021] [::1]:51100 Accepted
-[Sat Dec 18 19:41:58 2021] [::1]:51100 Invalid request (Unsupported SSL request)
-[Sat Dec 18 19:41:58 2021] [::1]:51100 Closing
+[Sun Dec 19 00:16:01 2021] PHP 7.4.21 Development Server (http://localhost:8767) started
+[Sun Dec 19 00:16:23 2021] [::1]:51922 Accepted
+[Sun Dec 19 00:16:23 2021] [::1]:51922 [200]: (null) /
+[Sun Dec 19 00:16:23 2021] [::1]:51922 Closing
+[Sun Dec 19 00:16:24 2021] [::1]:51924 Accepted
+[Sun Dec 19 00:16:24 2021] [::1]:51924 [404]: (null) /favicon.ico - No such file or directory
+[Sun Dec 19 00:16:24 2021] [::1]:51924 Closing
+[Sun Dec 19 00:16:30 2021] [::1]:51926 Accepted
+[Sun Dec 19 00:16:30 2021] [::1]:51926 [200]: (null) /
+[Sun Dec 19 00:16:30 2021] [::1]:51926 Closing
+[Sun Dec 19 00:16:31 2021] [::1]:51928 Accepted
+[Sun Dec 19 00:16:31 2021] [::1]:51928 [404]: (null) /favicon.ico - No such file or directory
+[Sun Dec 19 00:16:31 2021] [::1]:51928 Closing
